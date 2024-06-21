@@ -12,7 +12,7 @@ public class Ex5 {
 		char ch2 = 66;
 		System.out.println(ch2); // 문자가 출력됨
 		
-		char ch3 = '\n';
+		char ch3 = '\n';  
 		char ch4 = '\t';
 		
 		System.out.print(ch3);;
