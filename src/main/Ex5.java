@@ -17,7 +17,7 @@ public class Ex5 {
 		
 		System.out.print(ch3);;
 
-		
+		  
 	}
 
 }
